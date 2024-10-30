@@ -1,0 +1,79 @@
+/* styles.css */
+
+/* Estilização geral */
+body {
+    background-color: rgb(87, 92, 95); /* Cor de fundo clara */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+}
+
+/* Estilização do título do card */
+.card-title {
+    color: #000000; /* Cor do título do card */
+    font-weight: bold; /* Negrito */
+}
+
+/* Estilização do texto do card */
+.card-texto {
+    color: #000000; /* Cor do texto do card */
+}
+
+/* Estilização da lista */
+.list-group-item {
+    font-size: 1.1rem; /* Tamanho da fonte */
+}
+
+/* Estilização da tabela */
+.table {
+    margin-top: 20px; /* Margem superior */
+}
+
+.table th {
+    background-color: rgb(0, 0, 0); /* Cor de fundo do cabeçalho da tabela */
+    color: white; /* Cor do texto do cabeçalho */
+}
+
+.table td {
+    background-color: #ffffff; /* Cor de fundo das células */
+}
+
+/* Estilização dos botões */
+.btn-primary {
+    background-color: rgb(87, 92, 95); /* Cor de fundo do botão primário */
+}
+
+.btn-success {
+    background-color: rgb(0, 0, 0); /* Cor de fundo do botão de sucesso */
+}
+
+/* Hover para botões */
+.btn-primary:hover, .btn-success:hover {
+    opacity: 0.8; /* Efeito de hover */
+}
+
+.fonte1{
+    background-color: #ffffff;
+}
+img{
+    position: relative;
+    width: 500px;
+    margin-top: -5px;
+    left: 500px;
+}
+
+h1{
+    left: 575px;
+    position: relative;
+    width: 500px;
+    color: #ffffff;
+}
+
+h4{
+    left: 410px;
+    position: relative;
+    width: 500px;
+    color: #ffffff;
+}
+
+.navbar-collapse{
+    color: #000000;
+}
